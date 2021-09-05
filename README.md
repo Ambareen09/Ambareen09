@@ -28,10 +28,7 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="flutter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  
-  
-  </p>
+</p>
 <a href="https://github.com/Ambareen09">
 <img align="center" alt="Ambareen's Github stats"
 src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Ambareen09&show_icons=true&hide_border=true&count_private=true&bg_color=0,Ef4050,Cf6561&title_color=000000&text_color=000000&icon_color=000000"/>

@@ -1,20 +1,20 @@
-### Welcome to Ambareen's Github Profile 👋
+<p align="center"> 
+  <h2 align="center">Visitors count</h2>
+</p>
 
-<!--
-**Ambareen09/Ambareen09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align = "center">
+  <img src="https://profile-counter.glitch.me/Ambareen09/count.svg" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://komarev.com/ghpvc/?username=Ambareen09" alt="Ambareen09"/>
+<h3 align="center">Connect with me 🤝</h3>
+<body>
+    <div class="img1">
+<p align='center'>
+<a href="https://www.linkedin.com/in/ambareen-azam/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>          <a href="https://t.me/Delilahx0x0" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width=48></a>         <a href="https://twitter.com/AzamAmbareen" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width=48></a>         <a href="https://instagram.com/ambareen_azam?utm_medium=copy_link" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Instagram-icon.png" alt="hashnode" width=48></a>
+<p/> <br> <br>
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /> <br> <br> <br>
+    
+<br>
 <h1>Programming Languages</h1>
 <p align="left">
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="40" height="40"/>
@@ -29,11 +29,22 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="flutter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
 </p>
+      <br> <br> <br> <br> <br> <h2 align="center">My Github Statistics 🔥</h2>   
+<p align="center">
 <a href="https://github.com/Ambareen09">
 <img align="center" alt="Ambareen's Github stats"
 src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Ambareen09&show_icons=true&hide_border=true&count_private=true&bg_color=0,Ef4050,Cf6561&title_color=000000&text_color=000000&icon_color=000000"/>
 </a>
-<a href="https://github.com/Ambareen09">
-<img align="center" src="https://github-readme-stats-xi-rosy-19.vercel.app/api/top-langs/?username=Ambareen09&show_icons=true&hide_border=true&langs_count=8&count_private=true&bg_color=0,Cf6561,Ef4050&title_color=000000&text_color=000000&icon_color=000000&layout=compact"
-/>
-</a>
+
+<h2 align="center">My contribution Streak 🔥</h2>
+<p align="center">
+  <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ambareen09&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+ </p>  
+ <h2 align="center">My contribution Graph 🔥</h2>
+<p align="center">
+  <a href="https://github.com/Ambareen09">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Ambareen09&theme=xcode"/>
+  </a>
+ </p> 

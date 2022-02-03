@@ -1,5 +1,5 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, exciting < Developers 😄 /> and cout<<"Coders 🥰"
-  <h1 align="center"> I'm Ambareen Azam 🤩</h1>
+  <h1 align="center"> I'm Ambareen Azam</h1>
 
 <p align="center"> 
   <h2 align="center">Visitors count</h2>

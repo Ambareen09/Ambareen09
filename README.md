@@ -51,6 +51,12 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Ambareen09&s
     <img src="https://activity-graph.herokuapp.com/graph?username=Ambareen09&theme=xcode"/>
   </a>
  </p>
+ <h2 align="center">My Leetcode stats 🔥</h2>
+<p align="center">
+  <a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=d3l1l4h" width="400"/>
+</a>
+ </p>
       
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 

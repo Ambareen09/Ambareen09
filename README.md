@@ -57,7 +57,19 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Ambareen09&s
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=d3l1l4h" width="400"/>
 </a>
  </p>
-      
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+ <div align="center">
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ambareen09&show_icons=true&locale=en&count-private=true$height=80&theme=tokyonight" alt="Ambareen09" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ambareen09&show_icons=true&locale=en&count-private=true$height=80&theme=tokyonight" alt="Ambareen09" /></p>
+</div>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ambareen09&theme=juicyfresh" alt="Ambareen09" /></a> </p>
+
+<div align="center">
+<h2> Some Programming Humor for you </h2> 
+<p align="center"> <img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'>
+
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+</p>
+</div>

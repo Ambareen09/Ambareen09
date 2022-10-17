@@ -41,7 +41,6 @@
   </br>
   <img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=009639&style=for-the-badge&logoWidth=30" alt="Node">
   <img src="https://img.shields.io/badge/-Express.js-F3F7FA?logo=Express.js&logoColor=009639&style=for-the-badge&logoWidth=30" alt="ExpressJS">
-  <img src="https://img.shields.io/badge/-Inkscape-F3F7FA?logo=Inkscape&logoColor=009639&style=for-the-badge&logoWidth=30" alt="Inkscape">
 </p>
       <br> <br> <br> <br> <br> <h2 align="center">My Github Statistics 🔥</h2>   
 <p align="center">

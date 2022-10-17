@@ -20,17 +20,28 @@
 <br>
 <h1>Programming Languages</h1>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/480/c-sharp-logo-2.png" alt="csharp" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="30" height="40"/>
+  <img src="https://img.shields.io/badge/-C-F3F7FA?logo=c&logoColor=A8B9CC&style=for-the-badge&logoWidth=30" alt="C">
+  <img src="https://img.shields.io/badge/-C%23-F3F7FA?logo=csharp&logoColor=239120&style=for-the-badge&logoWidth=30" alt="C Sharp">
+  <img src="https://img.shields.io/badge/-Js-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
+  <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Python">
+  <img src="https://img.shields.io/badge/-C++-F3F7FA?logo=cplusplus&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Cplusplus">
 </p>
 <h1>Tools, Libraries and Frameworks</h1>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
+<p align="center">
+  
+  </br>
+  <img src="https://img.shields.io/badge/-ReactJs-F3F7FA?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
+  <img src="https://img.shields.io/badge/-Django-F3F7FA?logo=django&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Django">
+  <img src="https://img.shields.io/badge/-Unity-F3F7FA?logo=unity&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Unity">
+  </br>
+  <img src="https://img.shields.io/badge/-MySQL-F3F7FA?logo=mysql&logoColor=4479A1&style=for-the-badge&logoWidth=30" alt="MySQL">
+  <img src="https://img.shields.io/badge/-MongoDB-F3F7FA?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=30" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-SQLite-F3F7FA?logo=sqlite&logoColor=003B57&style=for-the-badge&logoWidth=30" alt="SQLite">
+  <img src="https://img.shields.io/badge/-postgresql-F3F7FA?logo=postgresql&logoColor=003B57&style=for-the-badge&logoWidth=30" alt="postgresql">
+  </br>
+  <img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=009639&style=for-the-badge&logoWidth=30" alt="Node">
+  <img src="https://img.shields.io/badge/-Express.js-F3F7FA?logo=Express.js&logoColor=009639&style=for-the-badge&logoWidth=30" alt="ExpressJS">
+  <img src="https://img.shields.io/badge/-Inkscape-F3F7FA?logo=Inkscape&logoColor=009639&style=for-the-badge&logoWidth=30" alt="Inkscape">
 </p>
       <br> <br> <br> <br> <br> <h2 align="center">My Github Statistics 🔥</h2>   
 <p align="center">

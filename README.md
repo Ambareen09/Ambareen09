@@ -77,7 +77,7 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Ambareen09&s
 
 <div align="center">
 <h2> Some Programming Humor for you </h2> 
-<p align="center"> <img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'>
+
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)

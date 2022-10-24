@@ -1,5 +1,9 @@
-<h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, exciting < Developers 😄 /> and cout<<"Coders 🥰"
-  <h1 align="center"> I'm Ambareen Azam</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+Ambareen+Azam....;Nice+to+e-meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 
 <p align="center"> 
   <h2 align="center">Visitors count</h2>

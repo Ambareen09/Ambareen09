@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-C-F3F7FA?logo=c&logoColor=A8B9CC&style=for-the-badge&logoWidth=30" alt="C">
   <img src="https://img.shields.io/badge/-C%23-F3F7FA?logo=csharp&logoColor=239120&style=for-the-badge&logoWidth=30" alt="C Sharp">
   <img src="https://img.shields.io/badge/-Js-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
-  <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Python">
+  <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30" alt="Python">
   <img src="https://img.shields.io/badge/-C++-F3F7FA?logo=cplusplus&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Cplusplus">
 </p>
 <h1>Tools, Libraries and Frameworks</h1>

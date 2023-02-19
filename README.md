@@ -80,7 +80,7 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Ambareen09&s
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ambareen09&theme=juicyfresh" alt="Ambareen09" /></a> </p>
 
 <div align="center">
-<h2> Some Programming Humor for you </h2> 
+<h2> Some Programming Humour for you </h2> 
 
 
 

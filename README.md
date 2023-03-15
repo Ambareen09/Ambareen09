@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center"> 
-  <h2 align="center">Visitor's count</h2>
+  <h2 align="center">Visitor's Count</h2>
 </p>
 
 <p align = "center">

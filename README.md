@@ -52,13 +52,13 @@
 src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Ambareen09&show_icons=true&hide_border=true&count_private=true&bg_color=0,Ef4050,Cf6561&title_color=000000&text_color=000000&icon_color=000000"/>
 </a>
 
-<h2 align="center">My contribution Streak 🔥</h2>
+<h2 align="center">My Contribution Streak 🔥</h2>
 <p align="center">
   <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ambareen09&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
  </p>  
- <h2 align="center">My contribution Graph 🔥</h2>
+ <h2 align="center">My Contribution Graph 🔥</h2>
 <p align="center">
   <a href="https://github.com/Ambareen09">
     <img src="https://activity-graph.herokuapp.com/graph?username=Ambareen09&theme=xcode"/>

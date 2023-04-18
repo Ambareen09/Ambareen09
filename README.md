@@ -12,7 +12,7 @@
   <img src="https://profile-counter.glitch.me/Ambareen09/count.svg" />
 </p>
 
-<h3 align="center">Connect with me! 🤝</h3>
+<h3 align="center">Connect with me.. 🤝</h3>
 <body>
     <div class="img1">
 <p align='center'>

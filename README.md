@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30" alt="Python">
   <img src="https://img.shields.io/badge/-C++-F3F7FA?logo=cplusplus&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Cplusplus">
 </p>
-<h1>Tools, Libraries & Frameworks</h1>
+<h1>Tools, Libraries '& Frameworks</h1>
 <p align="center">
   
   </br>
